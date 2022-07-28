@@ -1,6 +1,6 @@
 # isroproj
 
-This project is made during my Internship at ISRO. This Machine Learning Model basically detects the manufacturer and model of a vehicle. We match it by it's number plate. If they matches it's a legal number plate otherwise it's fake.Now here we present you the second part of the project.<br>
+This project is made during my Internship at ISRO with my group partner https://github.com/Harsh7300. This Machine Learning Model basically detects the manufacturer and model of a vehicle. We match it by it's number plate. If they matches it's a legal number plate otherwise it's fake.Now here we present you the second part of the project.<br>
 
 
 # Requirements
